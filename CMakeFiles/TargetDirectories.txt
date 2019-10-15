@@ -1,0 +1,3 @@
+C:/Users/Jord_/source/repos/region_growing_segmentation/build/CMakeFiles/project.dir
+C:/Users/Jord_/source/repos/region_growing_segmentation/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Jord_/source/repos/region_growing_segmentation/build/CMakeFiles/ZERO_CHECK.dir
